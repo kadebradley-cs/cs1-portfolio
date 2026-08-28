@@ -13,4 +13,10 @@ This is my first Python program. It prints a message in the screen
  - How to create a Python file
  - How to display output using "print"
  - How to save and organize programming projects
- - 
+ - How to upload a project to GitHub
+## Future Improvements
+ - Ask the user for their name
+ - Print a personalized greeting
+ - Add comments
+## Author
+Created by Kade Bradley as part of my Computer Science I course-work.
